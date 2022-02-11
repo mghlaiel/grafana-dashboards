@@ -98,7 +98,7 @@
     "jest-cli": "^24.9.0",
     "less": "^3.10.3",
     "mockdate": "^3.0.2",
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "sass-loader": "^8.0.2",
     "style-loader": "^1.1.4",
     "ts-loader": "^7.0.0",
